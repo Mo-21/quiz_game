@@ -19,7 +19,13 @@ class QuizInterface:
         self.answer = True
 
         self.canvas = Canvas(width=300, height=250)
-        self.q_text = self.canvas.create_text(150, 125, text=self.quiz.next_question(), font=("Ariel", 20, "italic"))
+        self.q_text = self.canvas.create_text(
+            150,
+            125,
+            width=280,
+            text=self.quiz.next_question(),
+            fill=THEME_COLOR,
+            font=("Arial", 20, "italic"))
         self.canvas.grid(row=1, column=0, columnspan=2, pady=50)
 
         true_img = PhotoImage(file="true.png")
