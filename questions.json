@@ -1,102 +1,102 @@
 [
     {
         "type": "boolean",
-        "difficulty": "medium",
-        "category": "Entertainment: Video Games",
-        "question": "The scrapped Sonic the Hedgehog 2 level &quot;Hidden Palace Zone&quot; was later reused in the iOS port of the game. ",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "&quot;The Simpsons&quot; family is named after creator Matt Groening&#039;s real family.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "medium",
-        "category": "Entertainment: Video Games",
-        "question": "In World of Warcraft lore, Thrall is the original wielder of &quot;Doomhammer&quot;.",
-        "correct_answer": "False",
-        "incorrect_answers": [
-            "True"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "easy",
-        "category": "Entertainment: Japanese Anime &amp; Manga",
-        "question": "The anime &quot;Lucky Star&quot; follows the story of one girl who is unaware she is God.",
-        "correct_answer": "False",
-        "incorrect_answers": [
-            "True"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "easy",
-        "category": "Science: Mathematics",
-        "question": "The &#039;Squaring the Circle&#039; problem is solvable.",
-        "correct_answer": "False",
-        "incorrect_answers": [
-            "True"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "medium",
-        "category": "Art",
-        "question": "Pablo Picasso is one of the founding fathers of &quot;Cubism.&quot;",
-        "correct_answer": "True",
-        "incorrect_answers": [
-            "False"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "medium",
-        "category": "Sports",
-        "question": "Wilt Chamberlain scored his infamous 100-point-game against the New York Knicks in 1962.",
-        "correct_answer": "True",
-        "incorrect_answers": [
-            "False"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "easy",
-        "category": "Politics",
-        "question": "Denmark has a monarch.",
-        "correct_answer": "True",
-        "incorrect_answers": [
-            "False"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "easy",
-        "category": "Entertainment: Film",
-        "question": "&quot;Minions&quot; was released on the June 10th, 2015.",
-        "correct_answer": "False",
-        "incorrect_answers": [
-            "True"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "easy",
-        "category": "Science &amp; Nature",
-        "question": "Salt is 100% composed of Sodium.",
-        "correct_answer": "False",
-        "incorrect_answers": [
-            "True"
         ]
     },
     {
         "type": "boolean",
         "difficulty": "easy",
         "category": "Animals",
-        "question": "The freshwater amphibian, the Axolotl, can regrow it&#039;s limbs.",
+        "question": "A bear does NOT defecate during hibernation. ",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Portal, the Companion Cube&#039;s ARE sentient.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Rannamaari was a sea demon that haunted the people of the Maldives and had to be appeased monthly with the sacrifice of a virgin girl.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Lady Gaga&#039;s real name is Stefani Joanne Angelina Germanotta.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Nick Mason is the only member to appear on every Pink Floyd album.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Tigers have one colour of skin despite the stripey fur.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "The alternative rock band, They Might Be Giants, released their album &#039;Flood&#039; in 1990. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Snagglepuss was part of the Yogi Yahooies in the 1977 show Scooby&#039;s All-Star Laff-a-Lympics.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In the webcomic Homestuck, the first character introduced is Dave Strider.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
         ]
     }
 ]

@@ -3,16 +3,18 @@ class QuizBrain:
         self.question_number = 0
         self.question_list = q_list
         self.number_of_questions = len(self.question_list)
+        self.answer = True
         self.score = 0
 
     def next_question(self):
         if self.question_number < self.number_of_questions:
             current_question = self.question_list[self.question_number]
+            self.answer = current_question.answer
             self.question_number += 1
             return current_question.text
 
-    def check_answer(self, user_answer, true_answer):
-        if user_answer == true_answer:
+    def check_answer(self, user_answer):
+        if user_answer == self.answer:
             print("Correct answer ^_^")
             self.score += 1
             print(f"\nCurrent Score: {self.score}")
