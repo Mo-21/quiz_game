@@ -1,8 +1,9 @@
-from question_model import Question
-from quiz_brain import QuizBrain
 from api_service import API
-import json
+from quiz_brain import QuizBrain
+from question_model import Question
 import html
+import json
+from ui import QuizInterface
 
 parameters = {"amount": 10, "type": "boolean"}
 api = API(parameters)
@@ -15,7 +16,7 @@ if status_code == 200:
     questions_bank = [Question(html.unescape(q["question"]), q["correct_answer"]) for q in questions["results"]]
 
     quiz = QuizBrain(questions_bank)
-    quiz.next_question()
+    ui = QuizInterface(quiz)
 else:
     raise Exception(status_code)
 

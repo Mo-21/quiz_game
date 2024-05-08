@@ -6,12 +6,10 @@ class QuizBrain:
         self.score = 0
 
     def next_question(self):
-        while self.question_number < self.number_of_questions:
+        if self.question_number < self.number_of_questions:
             current_question = self.question_list[self.question_number]
-            answer = input(f"Q.{self.question_number + 1}: {current_question.text} (True/False)  ")
-            self.check_answer(answer, current_question.answer)
             self.question_number += 1
-        self.final_result()
+            return current_question.text
 
     def check_answer(self, user_answer, true_answer):
         if user_answer == true_answer:
