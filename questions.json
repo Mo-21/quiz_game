@@ -1,0 +1,102 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The scrapped Sonic the Hedgehog 2 level &quot;Hidden Palace Zone&quot; was later reused in the iOS port of the game. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In World of Warcraft lore, Thrall is the original wielder of &quot;Doomhammer&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The anime &quot;Lucky Star&quot; follows the story of one girl who is unaware she is God.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "The &#039;Squaring the Circle&#039; problem is solvable.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Pablo Picasso is one of the founding fathers of &quot;Cubism.&quot;",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Wilt Chamberlain scored his infamous 100-point-game against the New York Knicks in 1962.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Denmark has a monarch.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "&quot;Minions&quot; was released on the June 10th, 2015.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Salt is 100% composed of Sodium.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The freshwater amphibian, the Axolotl, can regrow it&#039;s limbs.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    }
+]
