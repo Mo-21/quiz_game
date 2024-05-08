@@ -1,9 +1,39 @@
 [
     {
         "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Sir Issac Newton served as a Member of Parliament, but the only recorded time he spoke was to complain about a draft in the chambers.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "The Olympics tennis court is a giant green screen.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
         "difficulty": "easy",
-        "category": "Entertainment: Television",
-        "question": "&quot;The Simpsons&quot; family is named after creator Matt Groening&#039;s real family.",
+        "category": "Entertainment: Books",
+        "question": "&quot;Elementary, my dear Watson&quot; is a phrase that is never truly said within the Conan Doyle books of Sherlock Holmes.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "If you grab the bladed end of a longsword in a specific way, you will not cut yourself.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -13,7 +43,7 @@
         "type": "boolean",
         "difficulty": "easy",
         "category": "Animals",
-        "question": "A bear does NOT defecate during hibernation. ",
+        "question": "A slug&rsquo;s blood is green.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -21,49 +51,29 @@
     },
     {
         "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In Harry Potter and the Deathly Hallows, Hermione destroyed the fourth Horcrux by stabbing it with the Sword of Gryffindor.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
         "difficulty": "medium",
+        "category": "Geography",
+        "question": "Vietnam is the only country in the world that starts with V. ",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
         "category": "Entertainment: Video Games",
-        "question": "In Portal, the Companion Cube&#039;s ARE sentient.",
-        "correct_answer": "True",
-        "incorrect_answers": [
-            "False"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "hard",
-        "category": "Mythology",
-        "question": "Rannamaari was a sea demon that haunted the people of the Maldives and had to be appeased monthly with the sacrifice of a virgin girl.",
-        "correct_answer": "True",
-        "incorrect_answers": [
-            "False"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "hard",
-        "category": "Celebrities",
-        "question": "Lady Gaga&#039;s real name is Stefani Joanne Angelina Germanotta.",
-        "correct_answer": "True",
-        "incorrect_answers": [
-            "False"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "medium",
-        "category": "Entertainment: Music",
-        "question": "Nick Mason is the only member to appear on every Pink Floyd album.",
-        "correct_answer": "True",
-        "incorrect_answers": [
-            "False"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "medium",
-        "category": "Animals",
-        "question": "Tigers have one colour of skin despite the stripey fur.",
+        "question": "Codemasters is the developer of the Gran Turismo series.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -72,8 +82,8 @@
     {
         "type": "boolean",
         "difficulty": "easy",
-        "category": "Entertainment: Music",
-        "question": "The alternative rock band, They Might Be Giants, released their album &#039;Flood&#039; in 1990. ",
+        "category": "Entertainment: Video Games",
+        "question": "The ultimate phrase used by Pharah from Overwatch is: &quot;Justice rains from above!&quot;",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -81,22 +91,12 @@
     },
     {
         "type": "boolean",
-        "difficulty": "medium",
-        "category": "Entertainment: Cartoon &amp; Animations",
-        "question": "Snagglepuss was part of the Yogi Yahooies in the 1977 show Scooby&#039;s All-Star Laff-a-Lympics.",
-        "correct_answer": "False",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Joseph Stalin&#039;s real name was Ioseb Bessarionis dze Dzugashvili.",
+        "correct_answer": "True",
         "incorrect_answers": [
-            "True"
-        ]
-    },
-    {
-        "type": "boolean",
-        "difficulty": "medium",
-        "category": "Entertainment: Comics",
-        "question": "In the webcomic Homestuck, the first character introduced is Dave Strider.",
-        "correct_answer": "False",
-        "incorrect_answers": [
-            "True"
+            "False"
         ]
     }
 ]
